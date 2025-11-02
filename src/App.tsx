@@ -1,6 +1,6 @@
 import { Textarea } from '@/components/ui/textarea';
 import { useLocalStorageState } from '@/lib/use-local-storage-state';
-import { Background, Controls, MiniMap, ReactFlow, type Edge, type Node } from '@xyflow/react';
+import { Background, Controls, ReactFlow, type Edge, type Node } from '@xyflow/react';
 
 import '@xyflow/react/dist/style.css';
 
